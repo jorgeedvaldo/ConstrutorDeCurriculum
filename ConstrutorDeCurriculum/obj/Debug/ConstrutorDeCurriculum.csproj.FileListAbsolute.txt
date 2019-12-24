@@ -1,0 +1,11 @@
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\bin\Debug\ConstrutorDeCurriculum.exe.config
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\bin\Debug\ConstrutorDeCurriculum.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\bin\Debug\ConstrutorDeCurriculum.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\ConstrutorDeCurriculum.csprojResolveAssemblyReference.cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\ConstrutorDeCurriculum.Form1.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\ConstrutorDeCurriculum.Properties.Resources.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\ConstrutorDeCurriculum.csproj.GenerateResource.Cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\RdlCompile.cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\RdlCompile.compiled
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\ConstrutorDeCurriculum.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\ConstrutorDeCurriculum\ConstrutorDeCurriculum\obj\Debug\ConstrutorDeCurriculum.pdb
